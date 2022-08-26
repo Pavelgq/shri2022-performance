@@ -1,4 +1,4 @@
-@import url("vendors/bootstrap.css");
+/* @import url("vendors/bootstrap.css"); */
 
 html {
     font-size: 100%;
@@ -589,3 +589,10 @@ html, body {
         margin-left: 0;
     }
 }
+
+/* @media (-webkit-min-device-pixel-ratio: 2), 
+    (min-resolution: 192dpi)  {
+        .hero-dashboard {
+            background-image: ('assets/bg@2x.png');
+        }
+} */
